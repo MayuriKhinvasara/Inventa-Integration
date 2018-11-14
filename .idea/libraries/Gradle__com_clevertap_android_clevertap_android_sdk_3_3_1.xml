@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.clevertap.android:clevertap-android-sdk-3.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/clevertap-android-sdk-3.3.1.aar/282f273ec1d549dd6bf99f304a46f64f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/clevertap-android-sdk-3.3.1.aar/282f273ec1d549dd6bf99f304a46f64f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.clevertap.android/clevertap-android-sdk/3.3.1/bd9989d2199328b0df285d390f7afd344eb5f973/clevertap-android-sdk-3.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

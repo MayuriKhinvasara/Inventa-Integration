@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hovans.flipview:flipview-1.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/flipview-1.2.1.aar/692185ccd50444132b95386d67313988/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/flipview-1.2.1.aar/692185ccd50444132b95386d67313988/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hovans.flipview/flipview/1.2.1/81d5cfdf6a66d5b36053e570a1c247d3737647b1/flipview-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:notifications-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/notifications-1.0.2.aar/9fc072b8c04fa2a328bb0a4fd22541ee/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/notifications-1.0.2.aar/9fc072b8c04fa2a328bb0a4fd22541ee/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/notifications/1.0.2/645641b4e2032cbc87e8ed206aad3d22471b8edc/notifications-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
